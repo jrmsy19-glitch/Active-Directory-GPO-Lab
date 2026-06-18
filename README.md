@@ -1,3 +1,12 @@
+### 🌐 [Active Directory & GPO Security Hardening Lab]
+A comprehensive, multi-branch enterprise environment deployed entirely within Google Cloud Platform virtual machines using Windows Server 2022. 
+* Designed a scalable Organizational Unit (OU) structure for a corporate hierarchy.
+* Automated bulk user identity ingestion via command-line batch scripts.
+* Implemented custom Group Policy Objects (GPOs) for strict password lifecycle controls, brute-force lockout defenses, and corporate environment restrictions.
+* Engineered secure, cross-platform remote support pipelines using brokered TeamViewer connections from macOS management endpoints.
+
+
+
 ## 🏗️ Phase 1: Infrastructure & Virtualization Setup
 * Hypervisor Deployment: Provisioned and configured a local virtualization environment on a physical macOS client to run a nested enterprise lab.
 
